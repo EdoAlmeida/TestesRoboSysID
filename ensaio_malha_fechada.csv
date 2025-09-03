@@ -1,4 +1,4 @@
-Tempo(s),Setpoint_RPM,RPM_Bruto,RPM_Filtrado,Erro,PWM_Saida(%)
+Tempo(s),Setpoint_RPM,RPM_Bruto,RPM_Filtrado,Erro,PWM_Aplicado(%)
 0.0050,0.00,0.00,0.00,0.00,0.00
 0.0100,0.00,0.00,0.00,0.00,0.00
 0.0150,0.00,0.00,0.00,0.00,0.00
@@ -24600,3 +24600,4 @@ Tempo(s),Setpoint_RPM,RPM_Bruto,RPM_Filtrado,Erro,PWM_Saida(%)
 122.9950,0.00,0.00,-0.00,0.00,1.94
 123.0000,0.00,0.00,-0.00,0.00,1.93
 123.0050,0.00,0.00,-0.00,0.00,1.93
+
